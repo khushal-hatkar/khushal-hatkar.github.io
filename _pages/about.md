@@ -11,7 +11,7 @@ profile:
   more_info: "FTFEML Lab, CeNSE<br>Indian Institute of Science<br>Bengaluru, Karnataka 560012, India"
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
