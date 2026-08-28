@@ -1,118 +1,128 @@
+---
 cv:
   name: Khushal Hatkar
   label: BS-MS in Materials Science
   email: khushalg@iisc.ac.in
   location: Bengaluru, India
-  image: ""
-  summary: |
-    Broadly interested in in-situ and operando electron microscopy and advanced characterisation for probing structure–property relationships in functional materials. My work centres on correlated oxide systems, but I am motivated by any problem where nanoscale dynamics - phase transitions, domain evolution, defect-mediated phenomena - can be resolved through TEM, electron diffraction, and spectroscopy. I also integrate computational tools (image simulation, 4D-STEM analysis, spectral processing) with experimental microscopy to extract quantitative insights.
+  image: ''
+  summary: 'Broadly interested in in-situ and operando electron microscopy and advanced
+    characterisation for probing structure–property relationships in functional materials.
+    My work centres on correlated oxide systems, but I am motivated by any problem
+    where nanoscale dynamics - phase transitions, domain evolution, defect-mediated
+    phenomena - can be resolved through TEM, electron diffraction, and spectroscopy.
+    I also integrate computational tools (image simulation, 4D-STEM analysis, spectral
+    processing) with experimental microscopy to extract quantitative insights.
 
+'
   social_networks:
-    - network: LinkedIn
-      username: khushal-hatkar-562735258
-
+  - network: LinkedIn
+    username: khushal-hatkar-562735258
   sections:
     Education:
-      - institution: Indian Institute of Science (IISc)
-        location: Bengaluru, India
-        url: https://www.iisc.ac.in/
-        area: Materials Science
-        studyType: BS-MS
-        start_date: 2022-10
-        end_date: 2027-07
-        score: "8.3/10"
-        highlights:
-          - "Bachelor of Science (Research) Completed Apr 2026"
-          - "Previous Semester TGPA: 9.7/10"
-          - "Focus: Electron Microscopy, Raman Spectroscopy, Functional Materials"
-    Research Experience:
-      - company: Centre for Nanoscience Engineering (CeNSE), IISc
-        position: Bachelor's Thesis (Supervisor: Prof. Pavan Nukala)
-        location: Bengaluru, India
-        start_date: 2025-08
-        end_date: Present
-        summary: Opto-Thermal Studies on VO2 Microwires Using In-Situ Raman Spectroscopy
-        highlights:
-          - "Investigating the modulation of the metal-insulator transition (MIT) temperature in VO2 microwires through controlled nano-indentation"
-          - "Performing in-situ opto-thermal experiments using Raman spectroscopy as both a probe and stimulus"
-          - "Characterising nanoscale phase domain evolution during the MIT using TEM"
-          - "Tools: Raman Spectroscopy, Nano-indentation, Python, COMSOL Multiphysics, SEM, TEM, XRD"
-      - company: Department of Materials Engineering, IISc
-        position: Research Project (Supervisor: Prof. Praveen Kumar)
-        location: Bengaluru, India
-        start_date: 2024-08
-        end_date: 2025-07
-        summary: Electro-Thermo-Mechanical Behaviour of Tin
-        highlights:
-          - "Performed EBSD orientation mapping to analyse texture evolution and grain boundary character distribution"
-          - "Conducted complementary SEM, EDS, and WDS analyses to understand composition and gain microstructural insights"
-      - company: Garrett Motion
-        position: Summer Research Intern (Supervisor: Prof. S. Karthikeyan)
-        location: IISc, Bengaluru, India
-        start_date: 2024-05
-        end_date: 2024-07
-        summary: Texture Analysis of Electrical Steels
-        highlights:
-          - "Conducted a comprehensive literature survey on crystallographic texture in electrical steels"
-          - "Studied grain boundary engineering approaches for optimising the Goss texture component to minimise core losses in Si-Fe transformer steels"
-      - company: IISc
-        position: Teaching Assistant | Materials Design (NE 240)
-        location: Bengaluru, India
-        start_date: 2026-08
-        end_date: 2026-12
-      - company: Independent
-        position: Physics & Chemistry Tutor
-        location: Bengaluru, India
-        start_date: 2026-01
-        end_date: Present
-        summary: Tutored multiple high school students (grades 9-12)
+    - institution: Indian Institute of Science (IISc)
+      location: Bengaluru, India
+      url: https://www.iisc.ac.in/
+      area: Materials Science
+      studyType: BS-MS
+      start_date: 2022-10
+      end_date: 2027-07
+      score: 8.3/10
+      courses: Advanced Electron Microscopy, Applied Solid State Physics, Materials
+        Thermodynamics, Functional Properties of Materials
+      highlights:
+      - Bachelor of Science (Research) Completed Apr 2026
+      - 'Previous Semester TGPA: 9.7/10'
+      - 'Focus: Electron Microscopy, Raman Spectroscopy, Functional Materials'
+    Experience:
+    - company: Centre for Nanoscience Engineering (CeNSE), IISc
+      position: 'Bachelor''s Thesis (Supervisor: Prof. Pavan Nukala)'
+      location: Bengaluru, India
+      start_date: 2025-08
+      end_date: present
+      summary: Opto-Thermal Studies on VO2 Microwires Using In-Situ Raman Spectroscopy
+      highlights:
+      - Investigating the modulation of the metal-insulator transition (MIT) temperature
+        in VO2 microwires through controlled nano-indentation
+      - Performing in-situ opto-thermal experiments using Raman spectroscopy as both
+        a probe and stimulus
+      - Characterising nanoscale phase domain evolution during the MIT using TEM
+      - 'Tools: Raman Spectroscopy, Nano-indentation, Python, COMSOL Multiphysics,
+        SEM, TEM, XRD'
+    - company: Department of Materials Engineering, IISc
+      position: 'Research Project (Supervisor: Prof. Praveen Kumar)'
+      location: Bengaluru, India
+      start_date: 2024-08
+      end_date: 2025-07
+      summary: Electro-Thermo-Mechanical Behaviour of Tin
+      highlights:
+      - Performed EBSD orientation mapping to analyse texture evolution and grain
+        boundary character distribution
+      - Conducted complementary SEM, EDS, and WDS analyses to understand composition
+        and gain microstructural insights
+    - company: Garrett Motion
+      position: 'Summer Research Intern (Supervisor: Prof. S. Karthikeyan)'
+      location: IISc, Bengaluru, India
+      start_date: 2024-05
+      end_date: 2024-07
+      summary: Texture Analysis of Electrical Steels
+      highlights:
+      - Conducted a comprehensive literature survey on crystallographic texture in
+        electrical steels
+      - Studied grain boundary engineering approaches for optimising the Goss texture
+        component to minimise core losses in Si-Fe transformer steels
+    - company: IISc
+      position: Teaching Assistant | Materials Design (NE 240)
+      location: Bengaluru, India
+      start_date: 2026-08
+      end_date: 2026-12
+    - company: Independent
+      position: Physics & Chemistry Tutor
+      location: Bengaluru, India
+      start_date: 2026-01
+      end_date: present
+      summary: Tutored multiple high school students (grades 9-12)
     Awards:
-      - title: Kishore Vaigyanik Protsahan Yojana (KVPY-SA 2020) Fellow - AIR 297
-        date: 2020-01
-        awarder: Dept. of Science & Technology, Govt. of India
-        summary: Fully funded federal scholarship program
+    - title: Kishore Vaigyanik Protsahan Yojana (KVPY-SA 2020) Fellow - AIR 297
+      authors:
+      - Dept. of Science & Technology, Govt. of India
+      date: 2020-01
+      awarder: Dept. of Science & Technology, Govt. of India
+      summary: Fully funded federal scholarship program
     Certificates:
-      - name: Microsoft Certified: Azure AI Fundamentals
-        date: 2021-06
-        issuer: Microsoft
-        icon: fa-brands fa-microsoft
+    - name: 'Microsoft Certified: Azure AI Fundamentals'
+      date: 2021-06
+      issuer: Microsoft
+      icon: fa-brands fa-microsoft
     Skills:
-      - name: Microscopy
-        level: Advanced
-        icon: fa-solid fa-microscope
-        keywords:
-          - TEM, SEM, EBSD, EDS/WDS, AFM
-      - name: Spectroscopy & Other
-        level: Advanced
-        icon: fa-solid fa-wave-square
-        keywords:
-          - Raman Spectroscopy, X-Ray Diffraction (XRD)
-      - name: Simulation & Analysis
-        level: Advanced
-        icon: fa-solid fa-chart-line
-        keywords:
-          - COMSOL Multiphysics, CrystalMaker, CrystalDiffract, Origin, ImageJ, Fityk, LabSpec 6
-      - name: Programming
-        level: Proficient
-        icon: fa-solid fa-code
-        keywords:
-          - Python, LaTeX/Typst, C, Java
+    - name: Microscopy
+      level: Advanced
+      icon: fa-solid fa-microscope
+      keywords: TEM, SEM, EBSD, EDS/WDS, AFM
+    - name: Spectroscopy & Other
+      level: Advanced
+      icon: fa-solid fa-wave-square
+      keywords: Raman Spectroscopy, X-Ray Diffraction (XRD)
+    - name: Simulation & Analysis
+      level: Advanced
+      icon: fa-solid fa-chart-line
+      keywords: COMSOL Multiphysics, CrystalMaker, CrystalDiffract, Origin, ImageJ,
+        Fityk, LabSpec 6
+    - name: Programming
+      level: Proficient
+      icon: fa-solid fa-code
+      keywords: Python, LaTeX/Typst, C, Java
     Languages:
-      - language: English
-        fluency: Fluent, IELTS Band 8.0
-      - language: Hindi
-        fluency: Fluent
-      - language: Marathi
-        fluency: Native speaker
+    - name: English
+      summary: Fluent, IELTS Band 8.0
+    - name: Hindi
+      summary: Fluent
+    - name: Marathi
+      summary: Native speaker
     Interests:
-      - name: Extracurricular & Leadership
-        icon: fa-solid fa-users
-        keywords:
-          - Convenor, Amalgam (UG Materials Science Club, IISc)
-          - Core Team Member, Grain Boundary (Materials Engineering Dept. Club)
-          - Recreational Coordinator, Pravega XI
-      - name: Conferences
-        icon: fa-solid fa-chalkboard-user
-        keywords:
-          - 2025 IEEE South Asia Ferroelectrics Symposium (SAFS)
-          - EMSI 2025 Conference
+    - name: Extracurricular & Leadership
+      icon: fa-solid fa-users
+      keywords: Convenor, Amalgam; Core Team Member, Grain Boundary; Recreational
+        Coordinator, Pravega XI
+    - name: Conferences
+      icon: fa-solid fa-chalkboard-user
+      keywords: 2025 IEEE South Asia Ferroelectrics Symposium (SAFS), EMSI 2025 Conference
