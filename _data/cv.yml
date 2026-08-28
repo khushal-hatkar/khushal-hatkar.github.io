@@ -3,7 +3,6 @@ cv:
   name: Khushal Hatkar
   label: BS-MS in Materials Science
   email: khushalg@iisc.ac.in
-  location: Bengaluru, India
   image: ''
   summary: 'Broadly interested in in-situ and operando electron microscopy and advanced
     characterisation for probing structure–property relationships in functional materials.
@@ -38,7 +37,7 @@ cv:
       position: 'Bachelor''s Thesis (Supervisor: Prof. Pavan Nukala)'
       location: Bengaluru, India
       start_date: 2025-08
-      end_date: present
+      end_date: 2026-05
       summary: Opto-Thermal Studies on VO2 Microwires Using In-Situ Raman Spectroscopy
       highlights:
       - Investigating the modulation of the metal-insulator transition (MIT) temperature
@@ -95,20 +94,16 @@ cv:
       icon: fa-brands fa-microsoft
     Skills:
     - name: Microscopy
-      level: Advanced
       icon: fa-solid fa-microscope
       keywords: TEM, SEM, EBSD, EDS/WDS, AFM
     - name: Spectroscopy & Other
-      level: Advanced
       icon: fa-solid fa-wave-square
       keywords: Raman Spectroscopy, X-Ray Diffraction (XRD)
     - name: Simulation & Analysis
-      level: Advanced
       icon: fa-solid fa-chart-line
       keywords: COMSOL Multiphysics, CrystalMaker, CrystalDiffract, Origin, ImageJ,
         Fityk, LabSpec 6
     - name: Programming
-      level: Proficient
       icon: fa-solid fa-code
       keywords: Python, LaTeX/Typst, C, Java
     Languages:
@@ -126,3 +121,6 @@ cv:
     - name: Conferences
       icon: fa-solid fa-chalkboard-user
       keywords: 2025 IEEE South Asia Ferroelectrics Symposium (SAFS), EMSI 2025 Conference
+  address:
+    city: Bengaluru
+    countryCode: India
