@@ -71,3 +71,18 @@ I am actively seeking **PhD positions in In-situ Transmission Electron Microscop
 ### 📂 Quick Links
 - Explore my [Research Projects](/projects/)
 - View & Download my [Curriculum Vitae]({{ '/cv/' | relative_url }})
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  let attempts = 0;
+  const filterSearch = setInterval(function() {
+    const ninjaKeys = document.querySelector('ninja-keys');
+    if (ninjaKeys && ninjaKeys.data && ninjaKeys.data.length > 0) {
+      ninjaKeys.data = ninjaKeys.data.filter(item => item.section !== 'Books' && item.section !== 'News');
+      clearInterval(filterSearch);
+    }
+    attempts++;
+    if (attempts > 20) clearInterval(filterSearch);
+  }, 100);
+});
+</script>

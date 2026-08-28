@@ -95,3 +95,18 @@ Open a **Plugin Feature Proposal** issue if you want your plugin considered.
 4. If requesting default starter bundling, include `Gemfile` and `_config.yml` wiring updates in the same PR.
 
 Featuring and bundling are separate maintainer decisions.
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  let attempts = 0;
+  const filterSearch = setInterval(function() {
+    const ninjaKeys = document.querySelector('ninja-keys');
+    if (ninjaKeys && ninjaKeys.data && ninjaKeys.data.length > 0) {
+      ninjaKeys.data = ninjaKeys.data.filter(item => item.section !== 'Books' && item.section !== 'News');
+      clearInterval(filterSearch);
+    }
+    attempts++;
+    if (attempts > 20) clearInterval(filterSearch);
+  }, 100);
+});
+</script>
