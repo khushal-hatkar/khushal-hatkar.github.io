@@ -8,23 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>FTFEML Lab, CeNSE</p>
-    <p>Indian Institute of Science</p>
-    <p>Bengaluru, Karnataka 560012, India</p>
-    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:khushalg@iisc.ac.in">khushalg@iisc.ac.in</a></p>
+  more_info: "FTFEML Lab, CeNSE<br>Indian Institute of Science<br>Bengaluru, Karnataka 560012, India"
 
 selected_papers: false
 social: true
 
 announcements:
   enabled: false
-  scrollable: false
-  limit: 3
 
 latest_posts:
   enabled: false
 ---
+
 
 Welcome! I am a BS-MS student in Materials Science at the **Indian Institute of Science (IISc), Bangalore**, currently working in the **FTFEML Lab** at the **Centre for Nanoscience and Engineering (CeNSE)** under the supervision of **Prof. Pavan Nukala**.
 
