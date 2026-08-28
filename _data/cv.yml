@@ -103,33 +103,20 @@ cv:
     - name: Microscopy
       icon: fa-solid fa-microscope
       keywords:
-      - TEM
-      - SEM
-      - EBSD
-      - EDS/WDS
-      - AFM
+      - TEM | SEM | EBSD | EDS/WDS | AFM
     - name: Spectroscopy & Other
       icon: fa-solid fa-wave-square
       keywords:
-      - Raman Spectroscopy
-      - X-Ray Diffraction (XRD)
+      - Raman Spectroscopy | X-Ray Diffraction (XRD)
     - name: Simulation & Analysis
       icon: fa-solid fa-chart-line
       keywords:
-      - COMSOL Multiphysics
-      - CrystalMaker
-      - CrystalDiffract
-      - Origin
-      - ImageJ
-      - Fityk
-      - LabSpec 6
+      - COMSOL Multiphysics | CrystalMaker | CrystalDiffract | Origin | ImageJ | Fityk
+        | LabSpec 6
     - name: Programming
       icon: fa-solid fa-code
       keywords:
-      - Python
-      - LaTeX/Typst
-      - C
-      - Java
+      - Python | LaTeX/Typst | C | Java
     Languages:
     - name: English
       summary: Fluent, IELTS Band 8.0
@@ -141,12 +128,10 @@ cv:
     - name: Extracurricular & Leadership
       icon: fa-solid fa-users
       keywords:
-      - Convenor, Amalgam
-      - Core Team Member, Grain Boundary
-      - Recreational Coordinator, Pravega XI
+      - Convenor, Amalgam | Core Team Member, Grain Boundary | Recreational Coordinator,
+        Pravega XI
     - name: Conferences
       icon: fa-solid fa-chalkboard-user
       keywords:
-      - 2025 IEEE South Asia Ferroelectrics Symposium (SAFS)
-      - EMSI 2025 Conference
+      - 2025 IEEE South Asia Ferroelectrics Symposium (SAFS) | EMSI 2025 Conference
   location: Bengaluru, India
