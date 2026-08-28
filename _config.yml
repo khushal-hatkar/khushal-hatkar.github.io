@@ -12,12 +12,11 @@ email: khushalg@iisc.ac.in
 
 # Social & Academic Profiles
 github_username: "khushal-hatkar"
-orcid_id: "0000-0000-0000-0000"       # Replace with your ID if available
-scholar_userid: "YOUR_SCHOLAR_ID"      # Replace with your Scholar ID
-linkedin_username: "your-linkedin-id"
+orcid_id: ""       # Replace with your ID if available
+scholar_userid: ""      # Replace with your Scholar ID
+linkedin_username: ""
 
 # Site Features
-enable_medium_zoom: true               # Critical for high-res microscopy image zooming
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
