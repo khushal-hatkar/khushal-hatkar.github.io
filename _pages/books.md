@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <br>
 <hr>
 
-## My Activities
+<h2>My Activities</h2>
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
@@ -56,4 +56,24 @@ document.addEventListener("DOMContentLoaded", function() {
     </figure>
   </div>
 </div>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <figure>
+      <picture>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GB.jpg' | relative_url }}" alt="Grain Boundary session- Student-run Club of the Materials Engineering Department.">
+      </picture>
+      <figcaption class="caption" style="text-align: center; margin-top: 5px; font-style: italic; color: var(--global-text-color-light);">Grain Boundary session- Student-run Club of the Materials Engineering Department.</figcaption>
+    </figure>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <figure>
+      <picture>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/NBD.jpg' | relative_url }}" alt="Notebook Drive - Helping underprivileged students in and around Bengaluru, India.">
+      </picture>
+      <figcaption class="caption" style="text-align: center; margin-top: 5px; font-style: italic; color: var(--global-text-color-light);">Notebook Drive - Helping underprivileged students in and around Bengaluru, India.</figcaption>
+    </figure>
+  </div>
+</div>
+
 </div>
