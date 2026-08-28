@@ -12,13 +12,13 @@ email: khushalg@iisc.ac.in
 
 # Social & Academic Profiles
 github_username: "khushal-hatkar"
-orcid_id: ""       # Replace with your ID if available
-scholar_userid: ""      # Replace with your Scholar ID
+#orcid_id: ""       # Replace with your ID if available
+#scholar_userid: ""      # Replace with your Scholar ID
 linkedin_username: "khushal-hatkar-562735258"
 
 # Site Features
 contact_note: >
-  Feel free to reach out via email
+  Feel free to reach out via email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

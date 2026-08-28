@@ -34,7 +34,7 @@ I am actively seeking **PhD positions in In-situ Transmission Electron Microscop
 
 ---
 
-### 🔬 Research Experience
+### Research Experience
 
 - **Opto-Thermal Studies on $\text{VO}_2$ Microwires Using *In-Situ* Raman & TEM**  
   *Bachelor’s Thesis · Advisor: Prof. Pavan Nukala (CeNSE, IISc)*  
@@ -53,7 +53,7 @@ I am actively seeking **PhD positions in In-situ Transmission Electron Microscop
 
 ---
 
-### 🛠️ Technical Skills & Instrumentation
+### Technical Skills & Instrumentation
 
 - **Electron Microscopy:** TEM / STEM (ThermoFisher Titan Themis, Tecnai T20-ST), SEM (Apreo 2S, Helios G4-UX FIB-SEM), EBSD, EDS, WDS, AFM (Park NX20).
 - **Spectroscopy & Diffraction:** In-situ Raman Spectroscopy (Horiba LabRAM HR), X-Ray Diffraction (Rigaku XRD).
@@ -62,7 +62,7 @@ I am actively seeking **PhD positions in In-situ Transmission Electron Microscop
 
 ---
 
-### 🏆 Honors & Teaching
+### Honors & Teaching
 - **KVPY-SA Fellow (2020–21):** All India Rank **297** (awarded by DST, Govt. of India).
 - **Teaching Assistant:** *Materials Design: Electronic, Electromechanical & Optical Functions (NE 240)*, IISc.
 - **IELTS:** Band **8.0** (Fluent).
@@ -71,4 +71,4 @@ I am actively seeking **PhD positions in In-situ Transmission Electron Microscop
 
 ### 📂 Quick Links
 - Explore my [Research Projects](/projects/)
-- View & Download my [Curriculum Vitae](/cv/)
+- View & Download my [Curriculum Vitae](<{{ '/cv/' | relative_url }}>)
