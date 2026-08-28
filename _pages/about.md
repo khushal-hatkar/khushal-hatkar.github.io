@@ -2,33 +2,73 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Master's Student (BS-MS) in Materials Science · <a href='https://iisc.ac.in' target='_blank'>Indian Institute of Science (IISc), Bangalore</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>FTFEML Lab, CeNSE</p>
+    <p>Indian Institute of Science</p>
+    <p>Bengaluru, Karnataka 560012, India</p>
+    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:khushalg@iisc.ac.in">khushalg@iisc.ac.in</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: false
+  limit: 3
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am a BS-MS student in Materials Science at the **Indian Institute of Science (IISc), Bangalore**, currently working in the **FTFEML Lab** at the **Centre for Nanoscience and Engineering (CeNSE)** under the supervision of **Prof. Pavan Nukala**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on ***in-situ* and *operando* electron microscopy** and advanced characterisation to probe structure-property relationships and nanoscale dynamics (phase transitions, domain evolution, defect-mediated phenomena) in correlated oxide and functional 2D materials. I also integrate computational tools (HyperSpy, abTEM, py4DSTEM, COMSOL) with experimental microscopy to extract quantitative insights.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am actively seeking **PhD positions in In-situ Transmission Electron Microscopy & Advanced Materials Characterisation**.
+
+---
+
+### 🔬 Research Experience
+
+- **Opto-Thermal Studies on $\text{VO}_2$ Microwires Using *In-Situ* Raman & TEM**  
+  *Bachelor’s Thesis · Advisor: Prof. Pavan Nukala (CeNSE, IISc)*  
+  - Investigating metal-insulator transition (MIT) temperature modulation via controlled nano-indentation (Park AFM NX20).
+  - Executing *in-situ* opto-thermal experiments with Raman spectroscopy as both probe and stimulus across laser power densities.
+  - Characterizing nanoscale domain evolution during MIT using TEM to resolve monoclinic–rutile structural transitions.
+
+- **Electro-Thermo-Mechanical Behaviour of Tin**  
+  *Research Project · Advisor: Prof. Praveen Kumar (Dept. of Materials Engineering, IISc)*  
+  - Performed EBSD orientation mapping to analyze texture evolution and grain boundary character distribution.
+  - Conducted complementary SEM, EDS, and WDS microstructural analyses on ThermoFisher Helios G4-UX & Apreo 2S.
+
+- **Texture Analysis of Electrical Steels**  
+  *Summer Research Intern · Advisor: Prof. S. Karthikeyan · Garrett Motion*  
+  - Analyzed crystallographic texture, orientation distribution functions (ODF), and grain boundary engineering for Goss texture optimization.
+
+---
+
+### 🛠️ Technical Skills & Instrumentation
+
+- **Electron Microscopy:** TEM / STEM (ThermoFisher Titan Themis, Tecnai T20-ST), SEM (Apreo 2S, Helios G4-UX FIB-SEM), EBSD, EDS, WDS, AFM (Park NX20).
+- **Spectroscopy & Diffraction:** In-situ Raman Spectroscopy (Horiba LabRAM HR), X-Ray Diffraction (Rigaku XRD).
+- **Simulation & Analysis:** HyperSpy, abTEM, py4DSTEM, COMSOL Multiphysics, CrystalMaker, CrystalDiffract, DigitalMicrograph, ImageJ/Fiji, OriginPro, LMFIT.
+- **Programming:** Python (SciPy, NumPy, Matplotlib, Pandas, scikit-image), C, Java, LaTeX / Typst.
+
+---
+
+### 🏆 Honors & Teaching
+- **KVPY-SA Fellow (2020–21):** All India Rank **297** (awarded by DST, Govt. of India).
+- **Teaching Assistant:** *Materials Design: Electronic, Electromechanical & Optical Functions (NE 240)*, IISc.
+- **IELTS:** Band **8.0** (Fluent).
+
+---
+
+### 📂 Quick Links
+- Explore my [Research Projects](/projects/)
+- View & Download my [Curriculum Vitae](/cv/)
