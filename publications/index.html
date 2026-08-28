@@ -32,7 +32,20 @@
   <span class="na">pages</span> <span class="p">=</span> <span class="s">{132--148}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{1905}</span><span class="p">,</span>
   <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1002/andp.19053220607}</span><span class="p">,</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Khushal Hatkar. Indian Institute of Science (IISc), Bangalore. </div> </footer> <script>
+<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <script>
+document.addEventListener("DOMContentLoaded", function() {
+  let attempts = 0;
+  const filterSearch = setInterval(function() {
+    const ninjaKeys = document.querySelector('ninja-keys');
+    if (ninjaKeys && ninjaKeys.data && ninjaKeys.data.length > 0) {
+      ninjaKeys.data = ninjaKeys.data.filter(item => item.section !== 'Books' && item.section !== 'News');
+      clearInterval(filterSearch);
+    }
+    attempts++;
+    if (attempts > 20) clearInterval(filterSearch);
+  }, 100);
+});
+</script> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Khushal Hatkar. Indian Institute of Science (IISc), Bangalore. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };

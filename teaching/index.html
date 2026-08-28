@@ -14,7 +14,20 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 });
-</script> <div class="courses"> <h2 class="year">2026</h2> <div class="course-list"> <div class="course-item"> <h3 class="course-title"> <a href="/teachings/tutor/">Physics and Chemistry Tutor (Independent)</a> </h3> <div class="course-meta"> </div> <div class="course-description"> <p>Tutored multiple high school students (grades 9-12)</p> </div> </div> <div class="course-item"> <h3 class="course-title"> <a href="/teachings/teaching-assistant/">Teaching Assistant (CeNSE, IISc)</a> </h3> <div class="course-meta"> </div> <div class="course-description"> <p>Materials Design: Electronic, Electromechanical &amp; Optical Functions (NE 240)</p> </div> </div> </div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Khushal Hatkar. Indian Institute of Science (IISc), Bangalore. </div> </footer> <script>
+</script> <div class="courses"> <h2 class="year">2026</h2> <div class="course-list"> <div class="course-item"> <h3 class="course-title"> <a href="/teachings/tutor/">Physics and Chemistry Tutor (Independent)</a> </h3> <div class="course-meta"> </div> <div class="course-description"> <p>Tutored multiple high school students (grades 9-12)</p> </div> </div> <div class="course-item"> <h3 class="course-title"> <a href="/teachings/teaching-assistant/">Teaching Assistant (CeNSE, IISc)</a> </h3> <div class="course-meta"> </div> <div class="course-description"> <p>Materials Design: Electronic, Electromechanical &amp; Optical Functions (NE 240)</p> </div> </div> </div> </div> <script>
+document.addEventListener("DOMContentLoaded", function() {
+  let attempts = 0;
+  const filterSearch = setInterval(function() {
+    const ninjaKeys = document.querySelector('ninja-keys');
+    if (ninjaKeys && ninjaKeys.data && ninjaKeys.data.length > 0) {
+      ninjaKeys.data = ninjaKeys.data.filter(item => item.section !== 'Books' && item.section !== 'News');
+      clearInterval(filterSearch);
+    }
+    attempts++;
+    if (attempts > 20) clearInterval(filterSearch);
+  }, 100);
+});
+</script> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Khushal Hatkar. Indian Institute of Science (IISc), Bangalore. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
