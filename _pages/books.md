@@ -12,3 +12,40 @@ collection: books
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
 ## Books that I am reading, have read, or will read
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('h1 > a').forEach(function(link) {
+    if (link.getAttribute('href') && link.getAttribute('href').includes('/books/')) {
+      let span = document.createElement('span');
+      span.innerHTML = link.innerHTML;
+      span.style.color = 'inherit';
+      link.replaceWith(span);
+    }
+  });
+});
+</script>
+
+<br>
+<hr>
+
+## My Activities
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <figure>
+      <picture>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Run.jpg' | relative_url }}" alt="Running track in IISc during sunset">
+      </picture>
+      <figcaption class="caption" style="text-align: center; margin-top: 5px; font-style: italic; color: var(--global-text-color-light);">Running track in IISc during sunset</figcaption>
+    </figure>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <figure>
+      <picture>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Badminton.jpg' | relative_url }}" alt="Badminton">
+      </picture>
+      <figcaption class="caption" style="text-align: center; margin-top: 5px; font-style: italic; color: var(--global-text-color-light);">Badminton</figcaption>
+    </figure>
+  </div>
+</div>
