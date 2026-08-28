@@ -71,4 +71,4 @@ I am actively seeking **PhD positions in In-situ Transmission Electron Microscop
 
 ### 📂 Quick Links
 - Explore my [Research Projects](/projects/)
-- View & Download my [Curriculum Vitae](<{{ '/cv/' | relative_url }}>)
+- View & Download my [Curriculum Vitae]({{ '/cv/' | relative_url }})
