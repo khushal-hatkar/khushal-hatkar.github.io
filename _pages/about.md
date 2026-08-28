@@ -31,6 +31,10 @@ I am actively seeking **PhD positions in In-situ Transmission Electron Microscop
 
 ### Research Experience
 
+- **Investigating *in-situ* heat-assisted phase transitions in $\text{In}_2\text{Se}_3$ using TEM**  
+  *Master’s Thesis · Advisor: Prof. Pavan Nukala (CeNSE, IISc)*  
+  - Project commenced in June 2026 and is presently ongoing.
+
 - **Opto-Thermal Studies on $\text{VO}_2$ Microwires Using *In-Situ* Raman & TEM**  
   *Bachelor’s Thesis · Advisor: Prof. Pavan Nukala (CeNSE, IISc)*  
   - Investigating metal-insulator transition (MIT) temperature modulation via controlled nano-indentation (Park AFM NX20).
