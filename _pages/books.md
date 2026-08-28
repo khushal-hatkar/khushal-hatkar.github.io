@@ -23,9 +23,16 @@ document.addEventListener("DOMContentLoaded", function() {
       link.replaceWith(span);
     }
   });
+
+  const activities = document.getElementById("my-activities-section");
+  const article = document.querySelector("article");
+  if (activities && article) {
+    article.appendChild(activities);
+  }
 });
 </script>
 
+<div id="my-activities-section">
 <br>
 <hr>
 
@@ -48,4 +55,5 @@ document.addEventListener("DOMContentLoaded", function() {
       <figcaption class="caption" style="text-align: center; margin-top: 5px; font-style: italic; color: var(--global-text-color-light);">Badminton</figcaption>
     </figure>
   </div>
+</div>
 </div>
