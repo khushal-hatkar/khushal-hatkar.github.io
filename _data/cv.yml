@@ -19,7 +19,7 @@ cv:
   sections:
     Education:
     - institution: Indian Institute of Science (IISc)
-      location: Bengaluru, India
+      location: India
       url: https://www.iisc.ac.in/
       area: Materials Science
       studyType: BS-MS
@@ -102,17 +102,34 @@ cv:
     Skills:
     - name: Microscopy
       icon: fa-solid fa-microscope
-      keywords: TEM, SEM, EBSD, EDS/WDS, AFM
+      keywords:
+      - TEM
+      - SEM
+      - EBSD
+      - EDS/WDS
+      - AFM
     - name: Spectroscopy & Other
       icon: fa-solid fa-wave-square
-      keywords: Raman Spectroscopy, X-Ray Diffraction (XRD)
+      keywords:
+      - Raman Spectroscopy
+      - X-Ray Diffraction (XRD)
     - name: Simulation & Analysis
       icon: fa-solid fa-chart-line
-      keywords: COMSOL Multiphysics, CrystalMaker, CrystalDiffract, Origin, ImageJ,
-        Fityk, LabSpec 6
+      keywords:
+      - COMSOL Multiphysics
+      - CrystalMaker
+      - CrystalDiffract
+      - Origin
+      - ImageJ
+      - Fityk
+      - LabSpec 6
     - name: Programming
       icon: fa-solid fa-code
-      keywords: Python, LaTeX/Typst, C, Java
+      keywords:
+      - Python
+      - LaTeX/Typst
+      - C
+      - Java
     Languages:
     - name: English
       summary: Fluent, IELTS Band 8.0
@@ -123,11 +140,13 @@ cv:
     Interests:
     - name: Extracurricular & Leadership
       icon: fa-solid fa-users
-      keywords: Convenor, Amalgam; Core Team Member, Grain Boundary; Recreational
-        Coordinator, Pravega XI
+      keywords:
+      - Convenor, Amalgam
+      - Core Team Member, Grain Boundary
+      - Recreational Coordinator, Pravega XI
     - name: Conferences
       icon: fa-solid fa-chalkboard-user
-      keywords: 2025 IEEE South Asia Ferroelectrics Symposium (SAFS), EMSI 2025 Conference
-  address:
-    city: Bengaluru
-    countryCode: India
+      keywords:
+      - 2025 IEEE South Asia Ferroelectrics Symposium (SAFS)
+      - EMSI 2025 Conference
+  location: Bengaluru, India
