@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Master's Student (BS-MS) in Materials Science · <a href='https://iisc.ac.in' target='_blank'>Indian Institute of Science (IISc), Bangalore</a>
 
@@ -21,9 +21,9 @@ latest_posts:
 ---
 
 
-Welcome! I am a BS-MS student in Materials Science at the **Indian Institute of Science (IISc), Bangalore**, currently working in the **FTFEML Lab** at the **Centre for Nanoscience and Engineering (CeNSE)** under the supervision of **Prof. Pavan Nukala**.
+Hey! I'm Khushal, a BS-MS student in Materials Science at the **Indian Institute of Science (IISc), Bangalore**, currently working in the **FTFEML Lab** at the **Centre for Nanoscience and Engineering (CeNSE)** under the supervision of **Prof. Pavan Nukala**.
 
-My research focuses on ***in-situ* and *operando* electron microscopy** and advanced characterisation to probe structure-property relationships and nanoscale dynamics (phase transitions, domain evolution, defect-mediated phenomena) in correlated oxide and functional 2D materials. I also integrate computational tools (HyperSpy, abTEM, py4DSTEM, COMSOL) with experimental microscopy to extract quantitative insights.
+I'm interested in leveraging *in-situ* and *operando* electron microscopy to study structure-property relationships at the nanoscale. My current research involves investigating metal-insulator transitions and domain evolution in correlated oxides using a combination of transmission electron microscopy, Raman spectroscopy, and atomic force microscopy, with additional computational support from tools like HyperSpy, py4DSTEM, abTEM, and COMSOL.
 
 I am actively seeking **PhD positions in In-situ Transmission Electron Microscopy & Advanced Materials Characterisation**.
 
