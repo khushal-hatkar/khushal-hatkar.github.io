@@ -19,10 +19,10 @@ linkedin_username: "khushal-hatkar-562735258"
 contact_note: >
   Feel free to reach out via email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Materials Science researcher specializing in in-situ TEM, electron microscopy, phase transitions, In2Se3, and VO2.
 footer_text: >
   Indian Institute of Science (IISc), Bangalore.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: in-situ TEM, electron microscopy, phase transitions, In2Se3, VO2, materials science # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
