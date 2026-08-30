@@ -9,9 +9,15 @@ search_exclude: true
 exclude_from_search: true
 ---
 
-> (insert text here about my life- my background, how I ended up here, my research interests, my plans for the future, etc.)
+> "The most exciting phrase to hear in science... is not 'Eureka!' but 'That's funny...'"
 >
-> -- (change here)
+> — Isaac Asimov
+
+Growing up, I always aspired to excel in science and research, hone this craft, and take it a step further. Several of my teachers at my school helped me pursue this ambitious journey, and in 11th grade, I secured an All-India Rank of 297 in the prestigious KVPY exam in 2020.
+
+Life at IISc has had its share of ups and downs along the way, and I'm deeply grateful for the guidance of my professors and the steady support of friends who kept me going through it - a debt I don't think I'll ever fully repay. I was always fascinated by the world of physics and wanted to pursue something in that. However, when I first had the maiden class of materials science, I realised- this is what I want to end up doing. I was mesmerised by this world we constantly see and interact with every day, and yet never think about. Eventually, after choosing materials science as my major in my 2nd year, I took courses in solid-state physics and electron microscopy, where my ultimate passion took shape.
+
+Outside the lab, I split my time between chess and badminton, a running habit that mostly happens on the IISc track at sunset, and whatever book I'm currently working through. I also like to play board games (my favourite being Secret Hitler). I was also part of Grain Boundary, the Materials Engineering department's student-run club, where we would have discourse sessions or 'discos' to disseminate our knowledge and expertise and also understand what is happening across various labs in the Materials Engineering Department at IISc. I also volunteer with Notebook Drive, supporting underprivileged students across Bengaluru and giving back to the community that has helped me grow so far. Looking ahead, I want to stay in electron microscopy - where I've only just dipped my toes so far, and take a real deep dive, ideally through a PhD, where I can push further.
 
 ## Books that I am reading, have read, or will read
 
